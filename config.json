@@ -1,0 +1,6 @@
+{
+    "token": "Your Bot Token",
+    "prefix": "Your Desire Prefix", //for Modmail Thingy
+    "ServerID": "Your ServerID" //for Modmail Thingy
+}
+//Delete all Comments to Remove the Error
